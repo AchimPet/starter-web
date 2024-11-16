@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Achim peters achim.peters@devoteam.com @acpeter
 
 # THANKS
 
