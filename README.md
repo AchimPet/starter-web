@@ -21,3 +21,5 @@ Sample website with plenty of files for demos
 Please fork this repo
 
 ## copyright
+
+All rights reserved
